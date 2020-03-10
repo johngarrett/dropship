@@ -12,4 +12,4 @@ I've been getting ads for drop shipped websites and have fallen prey to them. Be
     - didn't find any metadata from orignal image
 
 #### test results
-![image results](https://cdn.discordapp.com/attachments/487260107244044319/686964633705512960/Artboard.png)
+![image results](https://media.discordapp.net/attachments/487260107244044319/686964633705512960/Artboard.png?width=1116&height=1273)
